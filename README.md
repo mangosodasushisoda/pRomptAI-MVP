@@ -71,6 +71,7 @@ AIにコードを全て任せるのではなく、AIを「思考の翻訳機」�
 
 ---
 **License:** Open Source (MIT)
+
 ※AIが書いたんで間違えてる箇所があるかもです。
 ---
 *Developed with Passion and AI Collaboration.*
