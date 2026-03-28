@@ -70,8 +70,10 @@ AIにコードを全て任せるのではなく、AIを「思考の翻訳機」�
 3. AIにやりたいことを伝え、コンパイルボタンを押してコードが走る快感を体験する。
 
 ---
+
 **License:** Open Source (MIT)
 
-**AIが書いたんで間違えてる箇所があるかもです。**
+※AIが書いたんで間違えてる箇所があるかもです。
+
 ---
 *Developed with Passion and AI Collaboration.*
