@@ -75,5 +75,7 @@ AIにコードを全て任せるのではなく、AIを「思考の翻訳機」�
 
 **※AIが書いたんで間違えてる箇所があるかもです。**
 
+**"Currently a 14-year-old developer turning frustration into code."**
+
 ---
 *Developed with Passion and AI Collaboration.*
